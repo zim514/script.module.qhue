@@ -8,7 +8,7 @@
 	    <summary lang="en_GB">A very lightweight Python wrapper to the Philips Hue API</summary>
 	    <description lang="en_GB">A very lightweight Python wrapper to the Philips Hue API</description>
 	    <platform>all</platform>
-	    <forum>http://forum.kodi.tv/showthread.php?tid=170715</forum>
+	    <forum>https://forum.kodi.tv/showthread.php?tid=170715</forum>
 	    <website>https://github.com/quentinsf/qhue</website>
 	    <source>https://github.com/quentinsf/qhue</source>
 	</extension>
