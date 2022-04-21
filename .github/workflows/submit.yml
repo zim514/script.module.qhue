@@ -1,9 +1,7 @@
-name: Kodi Addon-Submitter
+name: Submit script.service.hue
 
 on:
-  push:
-    tags:
-      - v*
+  workflow_dispatch:
 
 jobs:
   kodi-addon-submitter:
